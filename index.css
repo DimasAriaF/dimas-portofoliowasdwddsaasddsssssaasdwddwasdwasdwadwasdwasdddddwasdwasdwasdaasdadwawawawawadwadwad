@@ -8,9 +8,10 @@
 }
 body{background-color: lightgrey;}
 div h1 {background-color: yellow;}
-.Kontak {background-color: green;}
-.Pengalaman.Organisasi {background-color: indigo;}
-.Inspirasi.Saya {background-color: red;}
+.Kontak {
+    background-color: red;
+}
+.Pengalaman.Organisasi {background-color: red;}
 .Data.Diri {background-color: blue;}
 .gambar {
     text-align: center;
@@ -33,9 +34,12 @@ div h1 {background-color: yellow;}
 }
 .name {
     text-align: center;
+    color: red;
+    background-color: gray;
 }
 * {
     text-align: center;
+    color: white;
 }
 .nama-kelas {
     text-align: center;
@@ -47,12 +51,41 @@ div h1 {background-color: yellow;}
    align-items: center;
 }
 .inspirasi {
-    background-color: salmon;
+    background-color:gray;
+    border: 2px solid red;
 }
 .perkenalan {
-    background-color: springgreen;
+   background-color:red;
+   
+}
+.Data.Diri {
+    background-color: red;
+}
+.p1 {
+    background-color: gray;
+    margin: auto;
 }
 .datadiri {
-    background-color: thistle;
+    background-color: gray;
+}
+
+.ini {
+    background-color: red;
+}
+.baba {
+    background-color: gray;
+}
+.bibi {
+    background-color: gray;
+}
+.pendidikan {
+    background-color: gray;
+    
+}
+.kuli {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+   align-items: center;
 }
 
