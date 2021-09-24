@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&display=swap');
+* {
+    font-family: 'Gemunu Libre', sans-serif;
+}
+* {
+    font-size: 20px;
+    font-weight: 700;
+}
+body{background-color: lightgrey;}
+div h1 {background-color: yellow;}
+.Kontak {background-color: green;}
+.Pengalaman.Organisasi {background-color: indigo;}
+.Inspirasi.Saya {background-color: red;}
+.Data.Diri {background-color: blue;}
+.gambar {
+    text-align: center;
+}
+.circle {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin: auto;
+}
+.gambar-saya {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.ukuran-gambar {
+    width: 100px;
+    height: 100px;
+}
+.name {
+    text-align: center;
+}
+* {
+    text-align: center;
+}
+.nama-kelas {
+    text-align: center;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+   align-items: center;
+}
+.inspirasi {
+    background-color: salmon;
+}
+.perkenalan {
+    background-color: springgreen;
+}
+.datadiri {
+    background-color: thistle;
+}
