@@ -6,14 +6,18 @@
     font-size: 20px;
     font-weight: 700;
 }
-body{background-color: lightgrey;}
-div h1 {background-color: yellow;}
+body{background-color: lightgrey;
+    text-align: center;}
+div h1 {background-color: yellow;
+    text-align: center;}
 .Kontak {
     background-color: red;
+    text-align: center;
 }
 .Pengalaman.Organisasi {background-color: red;}
 .Data.Diri {background-color: blue;}
 .gambar {
+    text-align: center;
     text-align: center;
 }
 .circle {
@@ -22,23 +26,27 @@ div h1 {background-color: yellow;}
     background-color: yellow;
     border-radius: 50%;
     margin: auto;
+    text-align: center;
+
 }
 .gambar-saya {
     width: 200px;
     height: 200px;
     border-radius: 50%;
+    text-align: center;
 }
 .ukuran-gambar {
     width: 100px;
     height: 100px;
+    text-align: center;
 }
 .name {
     text-align: center;
     color: red;
     background-color: gray;
+    text-align: center;
 }
 * {
-    text-align: center;
     color: white;
 }
 .nama-kelas {
@@ -49,37 +57,48 @@ div h1 {background-color: yellow;}
     justify-content: center;
     flex-direction: column;
    align-items: center;
+   text-align: center;
 }
 .inspirasi {
     background-color:gray;
     border: 2px solid red;
+    text-align: left;
+
 }
 .perkenalan {
    background-color:red;
+   text-align: center;
    
 }
 .Data.Diri {
     background-color: red;
+    text-align: center;
 }
 .p1 {
     background-color: gray;
     margin: auto;
+    text-align: center;
 }
 .datadiri {
     background-color: gray;
+    text-align: center;
 }
 
 .ini {
     background-color: red;
+    text-align: center;
 }
 .baba {
     background-color: gray;
+    text-align: center;
 }
 .bibi {
     background-color: gray;
+    text-align: center;
 }
 .pendidikan {
     background-color: gray;
+    text-align: center;
     
 }
 .kuli {
@@ -87,5 +106,5 @@ div h1 {background-color: yellow;}
     justify-content: center;
     flex-direction: column;
    align-items: center;
+   text-align: center;
 }
-
